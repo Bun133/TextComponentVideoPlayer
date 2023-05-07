@@ -1,0 +1,7 @@
+name: TVP
+version: '${version}'
+main: com.github.bun133.textcomponentvideoplayerplugin.TextComponentVideoPlayerPlugin
+api-version: 1.19
+commands:
+  player:
+    description: Main Command
